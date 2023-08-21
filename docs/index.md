@@ -1,5 +1,5 @@
 #Title
-*MChae, 8/23/2023
+MChae, 8/23/2023
 
 ##Introduction
 
